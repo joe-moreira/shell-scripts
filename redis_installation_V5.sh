@@ -1,4 +1,5 @@
 #!/bin/bash
+# redis releases http://download.redis.io/releases/
 sudo apt-get -y install build-essential tcl gcc make
 cd /tmp
 wget http://download.redis.io/releases/redis-5.0.4.tar.gz
